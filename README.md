@@ -27,7 +27,7 @@ A web-based application built with React, TypeScript, and C# ASP.NET Core for ef
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/kennywam/task-management-system.git`
+1. Clone this repository: `git clone https://github.com/kennywam/tms.git`
 2. Navigate to the project directory: `cd task-management-system`
 3. Set up the backend (C# ASP.NET Core): Refer to backend-setup.md for instructions.
 4. Set up the frontend (React): Refer to frontend-setup.md for instructions.
