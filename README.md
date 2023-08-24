@@ -1,7 +1,5 @@
 # Task Management System
 
-![Task Management System](project-screenshot.png)
-
 A web-based application built with React, TypeScript, and C# ASP.NET Core for efficient task management. This application allows users to create, manage, and track tasks with various features like task creation, editing, sorting, filtering, notifications, and more.
 
 ## Features
@@ -11,23 +9,23 @@ A web-based application built with React, TypeScript, and C# ASP.NET Core for ef
 - Task Sorting and Filtering
 - Task Details and Deadline Notifications
 - User Profile Customization
-- Search Functionality (Optional)
-- Data Visualization (Optional)
+- Search Functionality 
+- Data Visualization
 
 ## Technologies Used
 
 - Frontend: React, TypeScript, HTML, CSS
 - Backend: C# ASP.NET Core
-- Database: SQL Server (or your chosen database)
+- Database: SQL Server
 - Authentication: JWT (JSON Web Tokens)
-- Frontend State Management (Optional): Redux or React Context
+- Frontend State Management: Redux or React Context
 - API Requests: Axios
 - Data Validation: FluentValidation (C#), Formik (React)
 - Testing: Jest, React Testing Library (for unit tests)
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/kennywam/task-management-system.git`
+1. Clone this repository: `git clone https://github.com/kennywam/TMS.git`
 2. Navigate to the project directory: `cd task-management-system`
 3. Set up the backend (C# ASP.NET Core): Refer to backend-setup.md for instructions.
 4. Set up the frontend (React): Refer to frontend-setup.md for instructions.
@@ -39,8 +37,8 @@ A web-based application built with React, TypeScript, and C# ASP.NET Core for ef
   - `components/` houses all React components.
   - `styles/` includes CSS styles.
   - `services/` contains the API service (Axios requests).
-  - `contexts/` (if used) for React context setup.
-- `backend/` (if separate) contains the C# ASP.NET Core project files.
+  - `contexts/` for React context setup.
+- `backend/` contains the C# ASP.NET Core project files.
 - `tests/` holds unit tests for your application.
 
 ## Usage
@@ -67,10 +65,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Acknowledgements
 
-- This project was inspired by [mention any inspirations or resources].
-- Special thanks to [contributors' names] for their contributions.
-- [List any external libraries or resources used.]
+- This project was inspired by [Carolyne Ndunge](https://github.com/cashy-tech).
+- Special thanks to [Cashy](https://github.com/cashy-tech) for her contributions.
 
----
-
-Feel free to customize this README to fit your project's specifics and any additional information you'd like to provide to potential users and contributors. Good luck with your project!
