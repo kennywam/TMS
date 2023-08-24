@@ -65,6 +65,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Acknowledgements
 
-- This project was inspired by ![Carrolyne Ndunge](https://github.com/cashy-tech).
+- This project was inspired by [Carrolyne Ndunge](https://github.com/cashy-tech).
 - Special thanks to Cashy-tech for her contributions.
 
