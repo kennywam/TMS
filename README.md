@@ -18,7 +18,7 @@ A web-based application built with React, TypeScript, and C# ASP.NET Core for ef
 - Backend: C# ASP.NET Core
 - Database: SQL Server
 - Authentication: JWT (JSON Web Tokens)
-- Frontend State Management (Optional): Redux or React Context
+- Frontend State Management: Redux or React Context
 - API Requests: Axios
 - Data Validation: FluentValidation (C#), Formik (React)
 - Testing: Jest, React Testing Library (for unit tests)
